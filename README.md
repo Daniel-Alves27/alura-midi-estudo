@@ -6,7 +6,7 @@ Projeto criado durante o curso da alura "JavaScript para Web: Crie p√°ginas din√
 | -------------  | --- |
 | :sparkles: Nome        | **alura MIDI**
 | :label: Tecnologias | javaScript, html, css
-| :rocket: URL         | 
+| :rocket: URL         | https://alura-midi-estudo.vercel.app/
 
 ![](https://imgur.com/8nDuNEr.png#vitrinedev)
 
